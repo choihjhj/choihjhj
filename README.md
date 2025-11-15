@@ -45,7 +45,7 @@
 
 
 # :mailbox_with_mail: Contacts
-<a href="https://radiant515.tistory.com/">
+<a href="https://choihjhj.tistory.com/">
   <img src="https://img.shields.io/badge/My Tech Blog-A9BCF5?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
 <a href="mailto:chg11141@gmail.com">
