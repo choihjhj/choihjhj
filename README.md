@@ -40,10 +40,20 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ_IDEA-181717?style=for-the-badge&logo=INTELLIJ%20IDEA&logoColor=#000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> 
+
 
 
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejichoi14@gmail.com)](mailto:hyejichoi14@gmail.com)
+<a href="https://radiant515.tistory.com/">
+  <img src="https://img.shields.io/badge/My Tech Blog-A9BCF5?style=for-the-badge&logo=Tistory&logoColor=white"/>
+</a>
+<a href="mailto:chg11141@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="mailto:chg11141@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+</a>
 
 </div>
 
